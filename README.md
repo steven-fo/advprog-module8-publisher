@@ -13,3 +13,7 @@ It can be seen from the image that there are 5 incoming messages that are caught
 Publisher terminal screenshot
 ![Screenshot (117)](https://github.com/steven-fo/advprog-module8-publisher/assets/119484321/a985d5f8-4059-4f2c-9abf-36bceb34b210)
 The screenshot is taken after running cargo run in publisher
+
+Chart screenshot
+![image](https://github.com/steven-fo/advprog-module8-publisher/assets/119484321/4a015a5f-b01c-4be2-8068-dfd2baee246a)
+The spikes in the second chart refer to the number of messages that were sent from the publisher.
